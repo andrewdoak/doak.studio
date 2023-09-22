@@ -8,9 +8,10 @@ Andrew Doak is a servant-leader, team player, dot-connecting thinker with a prov
 
 ## LINKS
 
--[Resumé](https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf)
--[LinkedIn](http://www.linkedin.com/in/theandrewdoak)
--[GitHub](https://github.com/andrewdoak/)
+-[Resumé](https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf) <br/>
+-[LinkedIn](http://www.linkedin.com/in/theandrewdoak) <br/>
+-[GitHub](https://github.com/andrewdoak/) <br/>
+-<a href="https://markdownmonster.west-wind.com" target="_blank" style="font-size: 1.1em">Markdown Link</a>
 
 ## WORK
 
