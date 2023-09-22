@@ -28,6 +28,6 @@ Project 3
 
 ## HOBBIES
 [...under construction...]
-My hobbies are...
-My hobbies mean...
+My hobbies are...\
+My hobbies mean...\
 
