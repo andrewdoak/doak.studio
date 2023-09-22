@@ -2,8 +2,8 @@
 Welcome, friend.
 
 ## DEV MOTTO & HAIKU
-_“Behind open doors\
-A warehouse of shooting stars\
+_“Behind open doors
+A warehouse of shooting stars
 Come in, we'll build more”_
 
 ## ABOUT
