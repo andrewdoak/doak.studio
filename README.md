@@ -1,7 +1,7 @@
 # DOAK.STUDIO
 Welcome, friend.
 
-## MOTTO/HAIKU
+## HAIKU DEV MOTTO
 “Behind open doors
 A warehouse of shooting stars
 Come in, we'll build more”
