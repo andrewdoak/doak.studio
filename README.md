@@ -2,9 +2,9 @@
 Welcome, friend.
 
 ## DEV MOTTO & HAIKU
-_“Behind open doors
+<i>“Behind open doors
 A warehouse of shooting stars
-Come in, we'll build more”_
+Come in, we'll build more”</i>
 
 ## ABOUT
 Andrew Doak is a servant-leader, team player, dot-connecting thinker with a proven history of synthesizing and implementing abstract ideas and managing complex projects. 
@@ -27,6 +27,7 @@ Project 2
 Project 3
 
 ## HOBBIES
+[...under construction...]
 My hobbies are...
 My hobbies mean...
-[...under construction...]
+
