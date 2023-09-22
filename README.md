@@ -8,15 +8,15 @@ Andrew Doak is a servant-leader, team player, dot-connecting thinker with a prov
 
 ## LINKS
 
->[Resumé](https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf)
->[LinkedIn](http://www.linkedin.com/in/theandrewdoak)
->[GitHub](https://github.com/andrewdoak/)
+-[Resumé](https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf)
+-[LinkedIn](http://www.linkedin.com/in/theandrewdoak)
+-[GitHub](https://github.com/andrewdoak/)
 
 ## WORK
 
->Project 1
->Project 2
->Project 3
+-Project 1
+-Project 2
+-Project 3
 
 ## HOBBIES
 
