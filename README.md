@@ -2,9 +2,9 @@
 Welcome, friend.
 
 ## DEV MOTTO & HAIKU
-<i>“Behind open doors <br/>
+_“Behind open doors <br/>
 A warehouse of shooting stars <br/>
-Come in, we'll build more”<i> <br/>
+Come in, we'll build more”_ <br/>
 
 ## ABOUT
 Andrew Doak is a servant-leader, team player, dot-connecting thinker with a proven history of synthesizing and implementing abstract ideas and managing complex projects. Current goal is to build beautiful, useful, innovative tech products. This work is still fueled by the same “core” it always has been: creativity, superb attention to detail, dedication, open-mindedness, a growth mentality, emotional intelligence, and thoughtful, context-sensitive communication.
