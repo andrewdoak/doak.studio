@@ -7,7 +7,7 @@ A warehouse of shooting stars\
 Come in, we'll build more”_
 
 ## ABOUT
-Andrew Doak is a servant-leader, team player, dot-connecting thinker with a proven history of synthesizing and implementing abstract ideas and managing complex projects.\ 
+Andrew Doak is a servant-leader, team player, dot-connecting thinker with a proven history of synthesizing and implementing abstract ideas and managing complex projects. 
 
 Current evolution: building beautiful, useful, innovative tech products. This work is fueled by the same “core” it always has been: creativity, superb attention to detail, dedication, open-mindedness, a growth mentality, emotional intelligence, and thoughtful, context-sensitive communication.
 
