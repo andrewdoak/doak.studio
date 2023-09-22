@@ -13,13 +13,17 @@ Current evolution: building beautiful, useful, innovative tech products. This wo
 
 ## LINKS
 <a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a>
+
 <u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>
+
 <a href="https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf" target="_blank" style="font-size: 1em">resume</a>
 
 
 ## WORK
 Project 1
+
 Project 2
+
 Project 3
 
 ## HOBBIES
