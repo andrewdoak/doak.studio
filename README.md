@@ -20,6 +20,14 @@ superb attention to detail, a growth mentality,
 emotional intelligence, and thoughtful,  
 context-sensitive communication.  
 
+### NOW
+What I'm focused on now...
+
+### HOBBIES
+[...under construction...]  
+hobbies include...  
+hobbies mean...  
+
 ### LINKS
 <u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
 <u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
@@ -31,11 +39,5 @@ featured-work_1
 featured-work_2  
 featured-work_3  
 
-### NOW
-What I'm focused on now...
 
-### HOBBIES
-[...under construction...]  
-hobbies include...  
-hobbies mean...  
 
