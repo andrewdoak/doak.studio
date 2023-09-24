@@ -31,6 +31,7 @@ featured-work_3
 
 ## HOBBIES
 [...under construction...]  
+
 my hobbies are...  
 my hobbies mean...  
 
