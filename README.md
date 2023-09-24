@@ -1,15 +1,22 @@
 # DOAK.STUDIO
 Welcome, friend.
 
-## DEV MOTTO & HAIKU
+## DEVELOPER MOTTO
 <i>Behind open doors  
-A warehouse of shooting stars  
-Come in, we'll build more  </i>  
+A warehouse of shooting stars.  
+We'll build greatness here.  </i>  
 
 ## ABOUT
-Andrew Doak is a servant-leader, team player, dot-connecting thinker with a proven history of synthesizing and implementing abstract ideas and managing complex projects. 
+Andrew Doak is a servant-leader, team player,  
+and dot-connecting thinker with a proven history  
+of synthesizing and implementing abstract ideas  
+and managing complex projects. 
 
-Current evolution: building beautiful, useful, innovative tech products. This work is fueled by the same “core” it always has been: creativity, superb attention to detail, dedication, open-mindedness, a growth mentality, emotional intelligence, and thoughtful, context-sensitive communication.
+Current evolution: building beautiful, useful and  
+innovative tech products. This work is fueled by the same  
+“core” it always has been: creativity, superb attention  
+to detail, dedication, open-mindedness, emotional intelligence,  
+a growth mentality, and thoughtful, context-sensitive communication.  
 
 ## LINKS
 <u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
