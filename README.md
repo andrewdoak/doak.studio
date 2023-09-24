@@ -13,10 +13,12 @@ of synthesizing and implementing abstract ideas
 and managing complex projects. 
 
 Current evolution: building beautiful, useful and  
-innovative tech products. This work is fueled by the same  
-“core” it always has been: creativity, superb attention  
-to detail, dedication, open-mindedness, emotional intelligence,  
-a growth mentality, and thoughtful, context-sensitive communication.  
+innovative tech products. This work is fueled  
+by the same “core” it always has been:  
+creativity, dedication, open-mindedness,    
+superb attention to detail, a growth mentality,   
+emotional intelligence, and thoughtful,  
+context-sensitive communication.  
 
 ### LINKS
 <u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
