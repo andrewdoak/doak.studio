@@ -14,8 +14,8 @@ We'll build greatness here. <br>
 
 ### PROFESSIONAL LINKS 
 <u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
-<u><a href="https://andrewdoak.github.io/doak.studio/" target="_blank" style="font-size: 1em">resume</a></u>
-<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u> 
+<u><a href="https://andrewdoak.github.io/doak.studio/" target="_blank" style="font-size: 1em">resume</a></u>  
+<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
 
 
 ### FEATURED PROJECTS
