@@ -32,14 +32,14 @@ context-sensitive communication.
 <u><a href="https://github.com/andrewdoak/thevegetalist" target="_blank" style="font-size: 1em">the-vegetalist</a></u>  
 
 ### NOW
-[...under construction...]  
+<b>[...under construction...]</b>  
 What I'm focused on now...  
 Why?   
 See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1em">now-now-now</a></u>  
 
 
 ### HOBBIES
-[...under construction...]  
+<b>[...under construction...]</b>  
 My hobbies include...  
 My hobbies mean...
 
