@@ -1,12 +1,20 @@
 # DOAK.STUDIO
-Welcome, friend.
+Welcome, friend.  
+This particular “About Me” is an API call to  
+a GitHub ReadMe.md  
+#nerdcity  
+;)
 
 ### DEVELOPER MOTTO
-<i>Behind open doors  
+<i>  
+*******************************  
+Behind open doors ************  
 A warehouse of shooting stars.  
-We'll build greatness here.  </i>  
+We'll build greatness here. **  
+*******************************  
+</i>  
 
-### ABOUT
+### ABOUT ME
 Andrew Doak is a servant-leader, team player,  
 and dot-connecting thinker with a proven history  
 of synthesizing and implementing abstract ideas  
@@ -20,10 +28,10 @@ superb attention to detail, a growth mentality,
 emotional intelligence, and thoughtful,  
 context-sensitive communication.    
 
-### PROFESSIONAL LINKS
-<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
+### PROFESSIONAL LINKS 
 <u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
-<u><a href="https://andrewdoak.github.io/doak.studio/" target="_blank" style="font-size: 1em">resume</a></u>   
+<u><a href="https://andrewdoak.github.io/doak.studio/" target="_blank" style="font-size: 1em">resume</a></u>
+<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u> 
 
 
 ### FEATURED PROJECTS
