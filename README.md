@@ -5,11 +5,11 @@ My bio is an API call.
 
 ### DEVELOPER MOTTO
 <i>  
-*******************************  
-Behind open doors ************  
-A warehouse of shooting stars.  
-We'll build greatness here. **  
-*******************************  
+******************************* <br> 
+Behind open doors <br>   
+A warehouse of shooting stars. <br>  
+We'll build greatness here. <br>  
+******************************* <br> 
 </i>
 
 ### PROFESSIONAL LINKS 
