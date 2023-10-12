@@ -1,9 +1,8 @@
 # DOAK.STUDIO
 Welcome, friend.  
-This particular “About Me” is an API call to  
-a GitHub ReadMe.md  
-#nerdcity  
-;)
+This particular “About Me” is  
+an API call to a GitHub ReadMe    
+#nerdcity #iknow #;)    
 
 ### DEVELOPER MOTTO
 <i>  
