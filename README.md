@@ -1,5 +1,7 @@
 # DOAK.STUDIO
-Welcome, friend.    
+Welcome, friend.  
+My bio is an API call.  
+#nerdcity ;)     
 
 ### DEVELOPER MOTTO
 <i>  
@@ -8,21 +10,7 @@ Behind open doors ************
 A warehouse of shooting stars.  
 We'll build greatness here. **  
 *******************************  
-</i>  
-
-### ABOUT ME
-Andrew Doak is a servant-leader, team player,  
-and dot-connecting thinker with a proven history  
-of synthesizing and implementing abstract ideas  
-and managing complex projects. 
-
-Current evolution: building beautiful, useful and  
-innovative tech products. This work is fueled  
-by the same “core” it always has been:  
-creativity, dedication, open-mindedness,    
-superb attention to detail, a growth mentality,   
-emotional intelligence, and thoughtful,  
-context-sensitive communication.    
+</i>
 
 ### PROFESSIONAL LINKS 
 <u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
@@ -47,3 +35,16 @@ See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1
 My hobbies include...  
 My hobbies mean...
 
+### SUMMARY
+Andrew Doak is a servant-leader, team player,  
+and dot-connecting thinker with a proven history  
+of synthesizing and implementing abstract ideas  
+and managing complex projects. 
+
+Current evolution: building beautiful, useful and  
+innovative tech products. This work is fueled  
+by the same “core” it always has been:  
+creativity, dedication, open-mindedness,    
+superb attention to detail, a growth mentality,   
+emotional intelligence, and thoughtful,  
+context-sensitive communication.
