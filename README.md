@@ -1,8 +1,5 @@
 # DOAK.STUDIO
-Welcome, friend.  
-This particular “About Me” is  
-an API call to a GitHub ReadMe    
-#nerdcity #iknow #;)    
+Welcome, friend.    
 
 ### DEVELOPER MOTTO
 <i>  
