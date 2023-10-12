@@ -18,26 +18,27 @@ by the same “core” it always has been:
 creativity, dedication, open-mindedness,    
 superb attention to detail, a growth mentality,   
 emotional intelligence, and thoughtful,  
-context-sensitive communication.  
+context-sensitive communication.    
+
+### PROFESSIONAL LINKS
+<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
+<u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
+<u><a href="https://andrewdoak.github.io/doak.studio/" target="_blank" style="font-size: 1em">resume</a></u>   
+
+
+### FEATURED PROJECTS
+<u><a href="https://github.com/andrewdoak/p5js-matching-game" target="_blank" style="font-size: 1em">match-that-number</a></u>  
+<u><a href="https://github.com/andrewdoak/aic-api-react" target="_blank" style="font-size: 1em">virtual-museumb</a></u>  
+<u><a href="https://github.com/andrewdoak/thevegetalist" target="_blank" style="font-size: 1em">the-vegetalist</a></u>  
 
 ### NOW
+[...under construction...]
 What I'm focused on now...
+Why? See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1em">now-now-now</a></u>
+
 
 ### HOBBIES
 [...under construction...]  
-hobbies include...  
-hobbies mean...  
-
-### LINKS
-<u><a href="https://github.com/andrewdoak/" target="_blank" style="font-size: 1em">github</a></u>  
-<u><a href="https://www.linkedin.com/in/doak-andrew/" target="_blank" style="font-size: 1em">linkedin</a></u>  
-<u><a href="https://github.com/andrewdoak/doak.studio/blob/main/andrew-doak_resume.pdf" target="_blank" style="font-size: 1em">resume</a></u>   
-
-
-### WORK
-featured-work_1  
-featured-work_2  
-featured-work_3  
-
-
+My hobbies include...  
+My hobbies mean...
 
