@@ -32,7 +32,7 @@ context-sensitive communication.
 <u><a href="https://github.com/andrewdoak/thevegetalist" target="_blank" style="font-size: 1em">the-vegetalist</a></u>  
 
 ### NOW
-[...under construction...]
+[...under construction...]  
 What I'm focused on now...  
 Why?   
 See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1em">now-now-now</a></u>  
