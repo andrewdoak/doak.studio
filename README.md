@@ -33,8 +33,9 @@ context-sensitive communication.
 
 ### NOW
 [...under construction...]
-What I'm focused on now...
-Why? See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1em">now-now-now</a></u>
+What I'm focused on now...  
+Why?   
+See <u><a href="https://nownownow.com/about" target="_blank" style="font-size: 1em">now-now-now</a></u>  
 
 
 ### HOBBIES
